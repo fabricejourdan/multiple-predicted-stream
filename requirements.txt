@@ -1,0 +1,10 @@
+Flask
+opencv-python
+pillow
+onnxruntime
+matplotlib
+pyyaml
+h5py
+tqdm
+scipy
+pandas

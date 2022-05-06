@@ -1,0 +1,11 @@
+{
+    "streams": ["rtsp://127.0.0.1:8554/stream-1.sdp", "rtsp://127.0.0.1:8554/stream-2.sdp", "rtsp://www.iafoule.fr/test.sdp"],
+    "snapshot_time": 1.0,
+    "model_filepath": "/workspace/home/jourdanfa/mobilecount_20220422.onnx",
+    "output": {
+        "mode": "image_with_density_map",
+        "alpha_type": "std",
+        "alpha_weight": 0.6,
+        "factor": 1.0
+    }
+}

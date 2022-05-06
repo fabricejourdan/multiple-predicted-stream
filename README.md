@@ -1,4 +1,4 @@
-## Multiple Predicted RTSP Streaming with Flask and Open-CV
+## Multiple Predcited RTSP Streaming with Flask and Open-CV
 
 ```sh
 conda create --name multiple-camera-stream python==3.9
